@@ -1,4 +1,8 @@
 body { font-family: -apple-system, system-ui, sans-serif; line-height: 1.6; color: #222; margin: 0; }
-main { max-width: 42rem; margin: 3rem auto; padding: 0 1.25rem; }
+main { max-width: 42rem; margin: 2rem auto; padding: 0 1.25rem; }
 h1 { margin-bottom: 0.25rem; }
 a { color: #1a5fd0; }
+.brand { background: #f5f5f5; border-bottom: 1px solid #ddd; padding: 0.6rem 1.25rem; font-size: 0.95rem; }
+.yt { background: #ff0000; color: #fff; font-weight: 700; padding: 0.15rem 0.5rem; border-radius: 4px; margin-right: 0.5rem; }
+.links { margin-bottom: 1rem; font-weight: 600; }
+footer { max-width: 42rem; margin: 2rem auto; padding: 1rem 1.25rem; border-top: 1px solid #ddd; }
